@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ![ic_cover](https://user-images.githubusercontent.com/20597965/221793555-418e65d6-d091-4105-a20f-4cc5597794b8.png)
-
-<img src="https://user-images.githubusercontent.com/20597965/221793555-418e65d6-d091-4105-a20f-4cc5597794b8.png" width="128"/>
