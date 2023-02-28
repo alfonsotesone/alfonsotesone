@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alfonsotesone/alfonsotesone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![ic_cover](https://user-images.githubusercontent.com/20597965/221793555-418e65d6-d091-4105-a20f-4cc5597794b8.png)
+
